@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/sentiment_analysis_movies.egg-info/PKG-INFO
+src/sentiment_analysis_movies.egg-info/SOURCES.txt
+src/sentiment_analysis_movies.egg-info/dependency_links.txt
+src/sentiment_analysis_movies.egg-info/requires.txt
+src/sentiment_analysis_movies.egg-info/top_level.txt

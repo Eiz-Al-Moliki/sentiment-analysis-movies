@@ -1,3 +1,21 @@
+Metadata-Version: 2.4
+Name: sentiment-analysis-movies
+Version: 0.1.0
+Summary: A machine learning model to classify movie review sentiment.
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: pandas>=2.3.0
+Requires-Dist: scikit-learn>=1.7.0
+Requires-Dist: matplotlib>=3.10.3
+Requires-Dist: seaborn>=0.13.0
+Requires-Dist: nltk>=3.8.0
+Requires-Dist: jupyter>=1.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.4.2; extra == "dev"
+Requires-Dist: black>=23.0.0; extra == "dev"
+Requires-Dist: flake8>=6.0.0; extra == "dev"
+
 # Sentiment Analysis on Movie Reviews
 
 ## Project Description
@@ -20,5 +38,5 @@ This project aims to build a machine learning classifier to predict the sentimen
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Eiz-Al-Moliki/sentiment-analysis-movies.git
+   git clone https://github.com/<your-username>/sentiment-analysis-movies.git
    cd sentiment-analysis-movies
