@@ -7,7 +7,7 @@ This project aims to build a machine learning classifier to predict the sentimen
 
 | AC.NO | Name | Role | Contributions |
 |-------|------|------|---------------|
-| 202270129| [Eiz] | Project Lead | Project setup, model development, final integration,Data collection, cleaning, and preprocessing, EDA, visualization, results analysis 
+| 202270129| Eiz | Project Lead | Project setup, model development, final integration,Data collection, cleaning, and preprocessing, EDA, visualization, results analysis 
 
 ## Installation and Setup
 
