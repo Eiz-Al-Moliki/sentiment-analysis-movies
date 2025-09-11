@@ -7,9 +7,7 @@ This project aims to build a machine learning classifier to predict the sentimen
 
 | AC.NO | Name | Role | Contributions |
 |-------|------|------|---------------|
-| 1 | [Your Name] | Project Lead | Project setup, model development, final integration |
-| 2 | [Teammate 1] | Data Engineer | Data collection, cleaning, and preprocessing |
-| 3 | [Teammate 2] | Data Analyst | EDA, visualization, results analysis |
+| 202270129| [Eiz] | Project Lead | Project setup, model development, final integration |Data Engineer | Data collection, cleaning, and preprocessing | Data Analyst | EDA, visualization, results analysis |
 
 ## Installation and Setup
 
